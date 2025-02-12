@@ -240,7 +240,7 @@ function QrCodeGenerator() {
                         reader.readAsDataURL(e.target.files[0]);
                       }
                     }}
-                    className="w-full text-white border-2 bg-transparent  border-white/70 focus:border-[#057FFF]/70 rounded-md outline-none focus-visible:ring-0 placeholder:text-gray-400"
+                    className="w-full text-black border-2 bg-white  border-white/70 focus:border-[#057FFF]/70 rounded-md outline-none focus-visible:ring-0 placeholder:text-gray-400"
                   />
                 </div>
               </div>
