@@ -24,7 +24,6 @@ function QrCodeGenerator() {
 
   const handleDownload = (type: "png" | "svg") => {
     const qrCodeElem = document.getElementById("qr-code");
-
     if (qrCodeElem) {
       if (type === "png") {
         toPng(qrCodeElem)
