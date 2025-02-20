@@ -13,7 +13,7 @@ export function Navbar() {
 	return (
 		<nav className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur-sm supports-backdrop-filter:bg-background/60">
 			<div className="container flex h-14 items-center mt-2">
-				<div className="flex items-center space-x-2 mx-24">
+				<div className="flex items-center space-x-2 mx-23">
 					<span className="tracking-tight inline from-[#FF1CF7] to-[#b249f8] text-[clamp(1rem,10vw,2rem)] sm:text-[clamp(1rem,10vw,3rem)] lg:text-5xl bg-clip-text text-transparent bg-gradient-to-b font-[700]">8AIKU</span>
 				</div>
 				<div className="">
