@@ -59,7 +59,7 @@ function QrCodeGenerator() {
       <Card className="flex-1 flex flex-col w-full h-auto mx-auto bg-[#000]/80 backdrop-blur-md shadow-sm border-2 border-white/40 rounded-xl">
         <CardHeader>
           <h1 className="text-center font-[800] tracking-tight inline from-[#FF1CF7] to-[#b249f8] text-[clamp(1rem,10vw,2rem)] sm:text-[clamp(1rem,10vw,3rem)] lg:text-4xl bg-clip-text text-transparent bg-gradient-to-b">
-          8AIKU - QR Code Generator</h1>
+          QR Code Generator</h1>
         </CardHeader>
         <CardContent className="flex-1">
           <div className="h-full flex flex-col md:flex-row gap-8">
